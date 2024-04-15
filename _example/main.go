@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"github.com/YnHuu/NeutralinoExt"
+	"github.com/YnHuu/neuext"
 	"log"
 	"os"
 )
